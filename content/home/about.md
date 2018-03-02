@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-FAN Haichao is a professor of Economics at the School of Economics, Fudan University. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+FAN Haichao is a professor of Economics at the School of Economics, Fudan University. 
 
-虽然她可爱又迷人，但她还会写paper. 
+
