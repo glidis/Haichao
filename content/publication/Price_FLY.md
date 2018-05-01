@@ -3,7 +3,7 @@ title = "On the relationship between quality and productivity: Evidence from Chi
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Haichao Fan", "Yao Amber Li", "Stephen R Yeaple"]
+authors = ["**Haichao Fan**", "Yao Amber Li", "Stephen R Yeaple"]
 
 # Publication type.
 # Legend:
