@@ -15,6 +15,8 @@ weight = 5
     "Micro-Economy",
     "Chinese Economy"
   ]
+  
+
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -32,6 +34,21 @@ weight = 5
   institution = "Wuhan University"
   year = 2006
  
+
+[[employment.courses]]
+  course = "PhD in Economics"
+  institution = "Hong Kong University of Science and Technology"
+  year = 2013
+
+[[employment.courses]]
+  course = "MA in Economics"
+  institution = "Wuhan University"
+  year = 2008
+
+[[employment.courses]]
+  course = "BA in Economics and BSc in Matehmatics"
+  institution = "Wuhan University"
+  year = 2006
 +++
 
 # Biography
@@ -39,3 +56,5 @@ weight = 5
 FAN Haichao is a professor of Economics at the School of Economics, Fudan University. 
 
 
+
+{{% staticref "files/cv_haichao.pdf" %}}**CURRICULUM VITAE**{{% /staticref %}}

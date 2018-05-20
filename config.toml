@@ -43,11 +43,11 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "playfair"
 
   # Your details.
   name = "FAN Haichao"
@@ -55,12 +55,12 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Fudan University", url = "www.fudan.edu.cn" } ]
+  organizations = [ { name = "Fudan University", url = "http://www.fudan.edu.cn/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "fan.haichao@mail.fudan.edu.cn"
-  #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Room 707, School of Economics, Fudan University, China"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "021 65648982"
   #skype = "echo123"
@@ -94,8 +94,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "31.294994"
+  longitude = "121.503581"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -115,7 +115,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "fan.haichao@mail.fudan.edu.cn"
+    link = "mailto:fan.haichao@mail.fudan.edu.cn"
 
  # [[params.social]]
   #  icon = "twitter"
@@ -226,8 +226,8 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "google-scholar"
-    icon_pack = "Economics"
-    link = "https://scholar.google.co.uk/citations?user=aBw2Ig8AAAAJ&hl=zh-CN&oi=sra"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=aBw2Ig8AAAAJ&hl=zh-CN&oi=sra/"
 
  # [[params.social]]
   #  icon = "github"
@@ -253,15 +253,15 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 3
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 3
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 4
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
