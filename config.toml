@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "fan.haichao@mail.fudan.edu.cn"
+  email = "fan_haichao@fudan.edu.cn"
   address = "Room 707, School of Economics, Fudan University, China"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "021 65648982"
