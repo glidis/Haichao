@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:fan.haichao@mail.fudan.edu.cn"
+    link = "mailto:fan_haichao@fudan.edu.cn"
 
  # [[params.social]]
   #  icon = "twitter"
